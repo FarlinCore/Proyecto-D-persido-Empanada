@@ -1,8 +1,8 @@
 namespace Login_y_Registro
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -34,7 +34,7 @@ namespace Login_y_Registro
 
         private void btnregistrarse_Click(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
+            Registro f2 = new Registro();
             f2.Owner = this;
             f2.Show();
             this.Hide();
