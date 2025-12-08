@@ -16,4 +16,76 @@ C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-window
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.genruntimeconfig.cache
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\ref\Login y Registro.dll
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form2.resources
+<<<<<<< HEAD
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.exe
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.deps.json
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.runtimeconfig.json
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.pdb
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form1.resources
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form2.resources
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\PROYECTO_D_PERSIDO_EMPANADA.Menu.resources
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Properties.Resources.resources
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.GenerateResource.cache
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.AssemblyInfoInputs.cache
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.AssemblyInfo.cs
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.CoreCompileInputs.cache
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\refint\Login y Registro.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.pdb
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.genruntimeconfig.cache
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\ref\Login y Registro.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.AssemblyReference.cache
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Gestion_usuarios.resources
+C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y .2734E8F2.Up2Date
+=======
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json
+>>>>>>> 86b10b8c4c3de8c04aa74cf937141f6502c3e951

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\Desktop\\Login y Registro\\Login y Registro\\Login y Registro.csproj": {}
+    "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\Desktop\\Login y Registro\\Login y Registro\\Login y Registro.csproj": {
+    "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\Desktop\\Login y Registro\\Login y Registro\\Login y Registro.csproj",
+        "projectUniqueName": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
         "projectName": "Login y Registro",
-        "projectPath": "C:\\Users\\maria\\Desktop\\Login y Registro\\Login y Registro\\Login y Registro.csproj",
-        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\Desktop\\Login y Registro\\Login y Registro\\obj\\",
+        "projectPath": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+        "packagesPath": "C:\\Users\\Farlin Diaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Farlin Diaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

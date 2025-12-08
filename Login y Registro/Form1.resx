@@ -121,6 +121,7 @@
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAABUAAAAMACAIAAABq7Fo6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+
         wAAADsABataJCQAA/7JJREFUeF58/YfSJDeSrQHy/d/hzh09Pa1JFkuSLdhakiXJ1ppFcR9iz/cdd0T+
         7N01c4MBjuMCDgQCnhGZ+cZ33/6X7735L99761/ef/tf338H+v69//v9t//v99/6vz+4968/uPdv79/7
         tx++8x8/evCfP374Hz96+B8/ffxfP3/3v3/x7v/84jv/86vv/O8H3/3qB9/72tPvfeP5D74ZevmjN1/+
@@ -13567,6 +13568,7 @@
         SgvR4BafuWe2NJWZ+jmluzW8RSzv261R59S/kGdoOaXCb60rYVy3dg3yRuXq5WgwIFMtFzEk26cLcIrh
         sNULf0h7TNbLyPIzzDv4jNSBk4TRvFHAxAFep9uLF7qqo9Omou1VGzld9EqC6+ee+v8AFD+zi2Qc8zQA
         AAAASUVORK5CYII=
+>>>>>>> 86b10b8c4c3de8c04aa74cf937141f6502c3e951
 </value>
   </data>
 </root>
