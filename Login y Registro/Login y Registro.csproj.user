@@ -4,7 +4,7 @@
     <Compile Update="agregar_usuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Login.cs">
+    <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Registro.cs">
