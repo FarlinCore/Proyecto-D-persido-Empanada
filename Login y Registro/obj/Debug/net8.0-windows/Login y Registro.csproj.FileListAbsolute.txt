@@ -16,3 +16,4 @@ C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-window
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.genruntimeconfig.cache
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\ref\Login y Registro.dll
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form2.resources
+C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json

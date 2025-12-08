@@ -21,5 +21,11 @@ namespace Login_y_Registro
         {
 
         }
+
+        private void btnatras_Click(object sender, EventArgs e)
+        {
+            this.Owner.Show();  
+            this.Close();
+        }
     }
 }
