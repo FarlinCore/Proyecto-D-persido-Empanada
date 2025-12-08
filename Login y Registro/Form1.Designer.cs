@@ -31,12 +31,12 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             label2 = new Label();
-            txtusuario = new TextBox();
-            txtcontraseña = new TextBox();
             btningresar = new Button();
             btnregistrarse = new Button();
             btnsalir = new Button();
             label3 = new Label();
+            txtusuario = new TextBox();
+            txtcontraseña = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -45,8 +45,9 @@
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Calibri", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.DarkRed;
-            label1.Location = new Point(263, 295);
-            label1.Margin = new Padding(2, 0, 2, 0);
+
+            label1.Location = new Point(316, 302);
+86b10b8c4c3de8c04aa74cf937141f6502c3e951
             label1.Name = "label1";
             label1.Size = new Size(92, 29);
             label1.TabIndex = 0;
@@ -58,30 +59,16 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Calibri", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.DarkRed;
-            label2.Location = new Point(228, 368);
-            label2.Margin = new Padding(2, 0, 2, 0);
+
+            label2.Location = new Point(316, 385);
+86b10b8c4c3de8c04aa74cf937141f6502c3e951
             label2.Name = "label2";
             label2.Size = new Size(127, 29);
             label2.TabIndex = 1;
             label2.Text = "Contraseña";
             // 
-            // txtusuario
-            // 
-            txtusuario.Location = new Point(409, 298);
-            txtusuario.Margin = new Padding(2, 2, 2, 2);
-            txtusuario.Name = "txtusuario";
-            txtusuario.Size = new Size(188, 27);
-            txtusuario.TabIndex = 2;
-            txtusuario.TextChanged += textBox1_TextChanged;
-            // 
-            // txtcontraseña
-            // 
-            txtcontraseña.Location = new Point(409, 368);
-            txtcontraseña.Margin = new Padding(2, 2, 2, 2);
-            txtcontraseña.Name = "txtcontraseña";
-            txtcontraseña.Size = new Size(188, 27);
-            txtcontraseña.TabIndex = 4;
-            // 
+
+86b10b8c4c3de8c04aa74cf937141f6502c3e951
             // btningresar
             // 
             btningresar.Font = new Font("Calibri", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -93,6 +80,7 @@
             btningresar.TabIndex = 5;
             btningresar.Text = "Ingresar";
             btningresar.UseVisualStyleBackColor = true;
+            btningresar.Click += btningresar_Click;
             // 
             // btnregistrarse
             // 
@@ -105,6 +93,7 @@
             btnregistrarse.TabIndex = 6;
             btnregistrarse.Text = "Registrarse";
             btnregistrarse.UseVisualStyleBackColor = true;
+            btnregistrarse.Click += btnregistrarse_Click;
             // 
             // btnsalir
             // 
@@ -125,12 +114,27 @@
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Calibri", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.DarkRed;
-            label3.Location = new Point(409, 186);
-            label3.Margin = new Padding(2, 0, 2, 0);
+
+            label3.Location = new Point(398, 189);
+86b10b8c4c3de8c04aa74cf937141f6502c3e951
             label3.Name = "label3";
             label3.Size = new Size(188, 33);
             label3.TabIndex = 8;
             label3.Text = "Inicio de sesión";
+            // 
+            // txtusuario
+            // 
+            txtusuario.Location = new Point(470, 306);
+            txtusuario.Name = "txtusuario";
+            txtusuario.Size = new Size(211, 31);
+            txtusuario.TabIndex = 9;
+            // 
+            // txtcontraseña
+            // 
+            txtcontraseña.Location = new Point(470, 389);
+            txtcontraseña.Name = "txtcontraseña";
+            txtcontraseña.Size = new Size(211, 31);
+            txtcontraseña.TabIndex = 10;
             // 
             // Form1
             // 
@@ -138,13 +142,15 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(1080, 699);
+
+            ClientSize = new Size(1350, 768);
+            Controls.Add(txtcontraseña);
+            Controls.Add(txtusuario);
+86b10b8c4c3de8c04aa74cf937141f6502c3e951
             Controls.Add(label3);
             Controls.Add(btnsalir);
             Controls.Add(btnregistrarse);
             Controls.Add(btningresar);
-            Controls.Add(txtcontraseña);
-            Controls.Add(txtusuario);
             Controls.Add(label2);
             Controls.Add(label1);
             Margin = new Padding(2, 2, 2, 2);
@@ -159,11 +165,11 @@
 
         private Label label1;
         private Label label2;
-        private TextBox txtusuario;
-        private TextBox txtcontraseña;
         private Button btningresar;
         private Button btnregistrarse;
         private Button btnsalir;
         private Label label3;
+        private TextBox txtusuario;
+        private TextBox txtcontraseña;
     }
 }

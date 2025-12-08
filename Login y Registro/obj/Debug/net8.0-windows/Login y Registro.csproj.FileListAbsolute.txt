@@ -16,6 +16,7 @@ C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-window
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.genruntimeconfig.cache
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\ref\Login y Registro.dll
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form2.resources
+<<<<<<< HEAD
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.exe
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.deps.json
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\bin\Debug\net8.0-windows\Login y Registro.runtimeconfig.json
@@ -85,3 +86,6 @@ C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-per
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.AssemblyReference.cache
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Gestion_usuarios.resources
 C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y .2734E8F2.Up2Date
+=======
+C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json
+>>>>>>> 86b10b8c4c3de8c04aa74cf937141f6502c3e951

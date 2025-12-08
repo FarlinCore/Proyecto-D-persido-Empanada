@@ -26,5 +26,18 @@ namespace Login_y_Registro
         {
 
         }
+
+        private void btningresar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnregistrarse_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.Owner = this;
+            f2.Show();
+            this.Hide();
+        }
     }
 }
