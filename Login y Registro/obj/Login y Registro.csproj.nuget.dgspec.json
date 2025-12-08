@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {}
+    "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {
+    "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+        "projectUniqueName": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
         "projectName": "Login y Registro",
-        "projectPath": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
-        "packagesPath": "C:\\Users\\Farlin Diaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farlin Diaz\\OneDrive\\Documentos\\Escritorio\\PROYETO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\obj\\",
+        "projectPath": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+        "packagesPath": "C:\\Users\\urse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Farlin Diaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\urse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
