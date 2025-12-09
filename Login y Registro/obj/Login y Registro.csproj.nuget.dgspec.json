@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {}
+    "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {
+    "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+        "projectUniqueName": "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
         "projectName": "Login y Registro",
-        "projectPath": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+        "projectPath": "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
         "packagesPath": "C:\\Users\\urse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\obj\\",
+        "outputPath": "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\urse\\AppData\\Roaming\\NuGet\\NuGet.Config",

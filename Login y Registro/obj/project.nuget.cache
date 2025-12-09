@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qtCJiLhTrd4=",
+  "dgSpecHash": "fy4UY1Yvu8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\urse\\Desktop\\PROYECTO LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
+  "projectFilePath": "C:\\Users\\urse\\Desktop\\LOGIN\\Proyecto-D-persido-Empanada\\Login y Registro\\Login y Registro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\urse\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\urse\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

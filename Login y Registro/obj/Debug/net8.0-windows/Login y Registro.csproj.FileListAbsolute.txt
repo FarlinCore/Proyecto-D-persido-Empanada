@@ -89,3 +89,19 @@ C:\Users\Farlin Diaz\OneDrive\Documentos\Escritorio\PROYETO LOGIN\Proyecto-D-per
 =======
 C:\Users\maria\Desktop\Login y Registro\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json
 >>>>>>> 86b10b8c4c3de8c04aa74cf937141f6502c3e951
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.AssemblyReference.cache
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.agregar_usuario.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Form1.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Gestion_usuarios.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\PROYECTO_D_PERSIDO_EMPANADA.Menu.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Properties.Resources.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login_y_Registro.Registro.resources
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.GenerateResource.cache
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.AssemblyInfoInputs.cache
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.AssemblyInfo.cs
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.csproj.CoreCompileInputs.cache
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.sourcelink.json
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.dll
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\refint\Login y Registro.dll
+C:\Users\urse\Desktop\LOGIN\Proyecto-D-persido-Empanada\Login y Registro\obj\Debug\net8.0-windows\Login y Registro.pdb
