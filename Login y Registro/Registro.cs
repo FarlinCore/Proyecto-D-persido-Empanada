@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Login_y_Registro
 {
-    public partial class Form2 : Form
+    public partial class Registro : Form
     {
-        public Form2()
+        public Registro()
         {
             InitializeComponent();
         }
